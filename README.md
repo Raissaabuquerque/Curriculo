@@ -1,1 +1,5 @@
 # Curriculo
+Meu nome é Raissa Albuquerque Diniz, tenho 19 anos e sou estudante do segundo período de Análise e Desenvolvimento de Sistemas na UTFPR. Resido em Nova Fátima – PR e trabalho na empresa Catuaí Rótulos.<br>
+Tenho grande interesse em análise de dados e no aprimoramento contínuo de minhas habilidades técnicas. Busco explorar novas tecnologias e metodologias para otimizar processos e extrair insights valiosos. Atualmente, estou focada no aprendizado de Python e SQL, fundamentais para manipulação, análise e extração de dados relevantes. Além disso, tenho interesse em outras ferramentas e linguagens que possam contribuir para a tomada de decisões baseada em dados.<br>
+Acredito na importância do aprendizado contínuo e na adaptação às inovações do setor. Estou sempre em busca de desafios que ampliem meu conhecimento e impulsionem meu crescimento profissional. Além disso, valorizo o trabalho em equipe e a troca de experiências como elementos essenciais para evolução na área de tecnologia.
+
